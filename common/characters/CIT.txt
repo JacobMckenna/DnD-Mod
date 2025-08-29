@@ -1,0 +1,19 @@
+characters = {
+	CIT_zyvan_woodfoot = {
+		name = "Zyvan 'The Dragon Slayer' Woodfoot"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_zyvan_woodfoot"
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				dictator
+				triumphant_revolutionary
+			}
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}

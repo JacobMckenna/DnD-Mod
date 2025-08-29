@@ -1,0 +1,7 @@
+spriteTypes = {
+	# CIT
+	spriteType = {
+		name = "GFX_portrait_cit_zyvan_woodfoot"
+		texturefile = "gfx/leaders/CIT/portrait_cit_zyvan_woodfoot.dds"
+	}
+}
