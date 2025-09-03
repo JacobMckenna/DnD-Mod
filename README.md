@@ -1,5 +1,7 @@
-# dndmod
-Echoes of Legends DnD Mod
+# DnD Mod
+
+## Overview
+This is a Hearts of Iron 4 mod that recreates our Dungeons and Dragons campaign, Echoes of Legends, into the game.
 
 ## Descriptor.mod
 When testing locally it must contain the following somewhere inside your descriptor.mod:
@@ -8,10 +10,6 @@ replace_path="history"
 replace_path="map"
 replace_path="common/countries"
 ```
-# DnD Mod
-
-## Overview
-This is a Hearts of Iron 4 mod that recreates our Dungeons and Dragons campaign, Echoes of Legends, into the game.
 
 ## Details
 Included in the mod will be a new custom made map that is based on the map of Elandria in our Dungeons and Dragons campaign.
