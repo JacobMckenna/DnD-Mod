@@ -4,7 +4,8 @@ state={
 	provinces={
 		188 280 489 877 1087 1190 1195 1339 2332 3206 3514 3549 3552 3557 
 	}
-	manpower=0
+	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=town
 	local_supplies=0.000
 }
