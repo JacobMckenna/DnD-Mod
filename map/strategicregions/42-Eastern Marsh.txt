@@ -2,10 +2,10 @@ strategic_region={
 	id=42
 	name="STRATEGICREGION_42"
 	provinces={
-		23 207 318 423 445 496 511 584 609 675 745 796 821 902 915 1023 1027 1085 1102 1109 1234 1288 1365 1473 1628 1890 1909 2014 2017 2124 2177 2189 2252 2682 2778 2838 2867 3112 3197 3789 3818 3916 3982 4039 4080 4110 4139 4150 4166 4205 4237 4243 4249 4259 11127 11128 11130 11131 11132 11135 
+		23 207 318 423 445 496 511 584 609 675 745 796 821 902 915 1023 1027 1085 1102 1109 1234 1288 1365 1473 1628 1890 1909 2014 2017 2124 2177 2189 2252 2682 2778 2838 2867 3112 3197 3789 3818 3916 3982 4039 4080 4110 4139 4150 4166 4205 4237 4243 4249 4259 11108 11127 11128 11130 11131 11132 11135 
 	}
 	weather={
-		period={ # Dec
+		period={
 			between={ 0.0 30.0 }
 			temperature={ -2.0 6.0 }
 			no_phenomenon=0.200
@@ -18,7 +18,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.050
 		}
-		period={ # Jan
+		period={
 			between={ 0.1 27.1 }
 			temperature={ -3.0 5.0 }
 			no_phenomenon=0.180
@@ -31,7 +31,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.060
 		}
-		period={ # Feb
+		period={
 			between={ 0.2 30.2 }
 			temperature={ -2.0 6.0 }
 			no_phenomenon=0.180
@@ -44,7 +44,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.050
 		}
-		period={ # Mar
+		period={
 			between={ 0.3 29.3 }
 			temperature={ 1.0 10.0 }
 			no_phenomenon=0.180
@@ -57,7 +57,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.020
 		}
-		period={ # Apr
+		period={
 			between={ 0.4 30.4 }
 			temperature={ 3.0 12.0 }
 			no_phenomenon=0.200
@@ -70,7 +70,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
-		period={ # May
+		period={
 			between={ 0.5 29.5 }
 			temperature={ 5.0 14.0 }
 			no_phenomenon=0.220
@@ -83,7 +83,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
-		period={ # Jun
+		period={
 			between={ 0.6 30.6 }
 			temperature={ 8.0 18.0 }
 			no_phenomenon=0.250
@@ -96,7 +96,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
-		period={ # Jul
+		period={
 			between={ 0.7 30.7 }
 			temperature={ 10.0 22.0 }
 			no_phenomenon=0.250
@@ -109,7 +109,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
-		period={ # Aug
+		period={
 			between={ 0.8 29.8 }
 			temperature={ 10.0 21.0 }
 			no_phenomenon=0.240
@@ -122,7 +122,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
-		period={ # Sep
+		period={
 			between={ 0.9 30.9 }
 			temperature={ 7.0 16.0 }
 			no_phenomenon=0.220
@@ -135,7 +135,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
-		period={ # Oct
+		period={
 			between={ 0.10 29.10 }
 			temperature={ 4.0 12.0 }
 			no_phenomenon=0.200
@@ -148,7 +148,7 @@ strategic_region={
 			sandstorm=0.000
 			min_snow_level=0.010
 		}
-		period={ # Nov
+		period={
 			between={ 0.11 30.11 }
 			temperature={ 1.0 8.0 }
 			no_phenomenon=0.200
@@ -162,5 +162,4 @@ strategic_region={
 			min_snow_level=0.020
 		}
 	}
-
 }
