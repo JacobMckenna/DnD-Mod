@@ -6,9 +6,10 @@ This is a Hearts of Iron 4 mod that recreates our Dungeons and Dragons campaign,
 ## Descriptor.mod
 When testing locally it must contain the following somewhere inside your descriptor.mod:
 ```
-replace_path="history"
-replace_path="map"
-replace_path="common/countries"
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
 ```
 
 ## Details
