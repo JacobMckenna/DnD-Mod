@@ -2,11 +2,11 @@ strategic_region={
 	id=59
 	name="STRATEGICREGION_59"
 	provinces={
-		157 293 531 586 620 824 828 945 1001 1094 1140 1142 1212 1349 1468 1831 2150 2483 2568 2675 2689 2702 2765 3144 3158 3193 3221 3556 3564 3607 3619 3643 3684 3722 3743 6533 8310 9374 10384 10390 10398 
+		157 293 586 620 824 828 945 1001 1094 1140 1142 1212 1349 1468 1831 2150 2483 2568 2675 2689 2702 2765 3144 3158 3193 3221 3556 3564 3607 3619 3643 3684 3722 3743 
 	}
 	weather={
 		period={
-			between={ 0.0 30.0 }        # January
+			between={ 0.0 30.0 }
 			temperature={ 8.0 14.0 }
 			no_phenomenon=0.800
 			rain_light=0.150
@@ -19,7 +19,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.1 27.1 }        # February
+			between={ 0.1 27.1 }
 			temperature={ 8.0 15.0 }
 			no_phenomenon=0.780
 			rain_light=0.170
@@ -32,7 +32,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.2 30.2 }        # March
+			between={ 0.2 30.2 }
 			temperature={ 10.0 18.0 }
 			no_phenomenon=0.750
 			rain_light=0.200
@@ -45,7 +45,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.3 29.3 }        # April
+			between={ 0.3 29.3 }
 			temperature={ 12.0 20.0 }
 			no_phenomenon=0.720
 			rain_light=0.220
@@ -58,7 +58,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.4 30.4 }        # May
+			between={ 0.4 30.4 }
 			temperature={ 15.0 22.0 }
 			no_phenomenon=0.700
 			rain_light=0.230
@@ -71,7 +71,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.5 29.5 }        # June
+			between={ 0.5 29.5 }
 			temperature={ 18.0 25.0 }
 			no_phenomenon=0.820
 			rain_light=0.120
@@ -84,7 +84,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.6 30.6 }        # July
+			between={ 0.6 30.6 }
 			temperature={ 20.0 26.0 }
 			no_phenomenon=0.850
 			rain_light=0.100
@@ -97,7 +97,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.7 30.7 }        # August
+			between={ 0.7 30.7 }
 			temperature={ 20.0 25.0 }
 			no_phenomenon=0.830
 			rain_light=0.120
@@ -110,7 +110,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.8 29.8 }        # September
+			between={ 0.8 29.8 }
 			temperature={ 16.0 22.0 }
 			no_phenomenon=0.760
 			rain_light=0.180
@@ -123,7 +123,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.9 30.9 }        # October
+			between={ 0.9 30.9 }
 			temperature={ 14.0 20.0 }
 			no_phenomenon=0.740
 			rain_light=0.200
@@ -136,7 +136,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.10 29.10 }      # November
+			between={ 0.10 29.10 }
 			temperature={ 10.0 16.0 }
 			no_phenomenon=0.770
 			rain_light=0.180
@@ -149,7 +149,7 @@ strategic_region={
 			min_snow_level=0.000
 		}
 		period={
-			between={ 0.11 30.11 }      # December
+			between={ 0.11 30.11 }
 			temperature={ 8.0 14.0 }
 			no_phenomenon=0.800
 			rain_light=0.150
@@ -162,5 +162,4 @@ strategic_region={
 			min_snow_level=0.000
 		}
 	}
-
 }
