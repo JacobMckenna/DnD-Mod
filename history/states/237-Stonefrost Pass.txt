@@ -4,7 +4,7 @@ state={
 	provinces={
 		63 265 333 857 1201 1620 2383 2559 2602 2653 3225 3419 
 	}
-	manpower=1
+	manpower=365
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000
