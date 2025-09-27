@@ -4,6 +4,14 @@ state={
 	provinces={
 		310 1092 1120 1136 1329 1445 1526 1623 1919 2365 2422 2522 2674 2851 2853 2885 3127 3150 3846 3917 3943 
 	}
+	history = {
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+
 	manpower=3174
 	buildings_max_level_factor=1.000
 	state_category=rural

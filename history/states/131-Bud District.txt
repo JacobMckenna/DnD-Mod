@@ -4,6 +4,14 @@ state={
 	provinces={
 		435 457 541 1112 1200 1324 1605 1643 1706 1902 2079 2400 2510 2768 2928 3007 3160 3829 3850 3854 3865 3870 3891 3904 3911 3972 
 	}
+	history = {
+		buildings = {
+			infrastructure = 10
+			arms_factory = 12
+			industrial_complex = 12
+		}
+	}
+
 	manpower=65097
 	buildings_max_level_factor=1.000
 	state_category=megalopolis

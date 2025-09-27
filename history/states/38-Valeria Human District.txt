@@ -4,6 +4,14 @@ state={
 	provinces={
 		2 562 640 822 858 993 1395 1642 1728 1842 1859 2225 2548 2587 2623 2842 2901 2941 2980 2997 3012 3043 3177 3211 3675 3679 3686 3694 3697 3700 3713 3718 3747 3758 
 	}
+	history = {
+		buildings = {
+			infrastructure = 10
+			arms_factory = 10
+			industrial_complex = 10
+		}
+	}
+
 	manpower=55458
 	buildings_max_level_factor=1.000
 	state_category=metropolis

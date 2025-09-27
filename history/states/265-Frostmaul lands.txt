@@ -4,6 +4,14 @@ state={
 	provinces={
 		629 1313 1536 1978 2679 3242 3247 3252 3257 
 	}
+	history = {
+		buildings = {
+			infrastructure = 0
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+
 	manpower=144
 	buildings_max_level_factor=1.000
 	state_category=wasteland

@@ -4,6 +4,14 @@ state={
 	provinces={
 		2008 2385 2896 2949 4296 4322 4328 4336 4342 4349 4370 
 	}
+	history = {
+		buildings = {
+			infrastructure = 6
+			arms_factory = 6
+			industrial_complex = 6
+		}
+	}
+
 	manpower=16197
 	buildings_max_level_factor=1.000
 	state_category=city

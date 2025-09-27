@@ -4,6 +4,14 @@ state={
 	provinces={
 		888 1487 1923 
 	}
+	history = {
+		buildings = {
+			infrastructure = 0
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+
 	manpower=177
 	buildings_max_level_factor=1.000
 	state_category=tiny_island

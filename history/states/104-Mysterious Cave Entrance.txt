@@ -4,6 +4,14 @@ state={
 	provinces={
 		21 28 281 294 539 772 957 1437 1678 2131 2236 2402 2887 4162 
 	}
+	history = {
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
 	manpower=363
 	buildings_max_level_factor=1.000
 	state_category=pastoral
