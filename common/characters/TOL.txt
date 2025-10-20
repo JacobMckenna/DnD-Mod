@@ -1,0 +1,12 @@
+characters = {
+
+	TOL_kilrogg = {
+		name = "Kilrogg"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_tol_kilrogg"
+			}
+		}
+	}
+
+}

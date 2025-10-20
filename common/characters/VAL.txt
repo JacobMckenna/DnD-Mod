@@ -1,0 +1,44 @@
+characters = {
+
+	VAL_alukah = {
+		name = "Alukah"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_val_alukah"
+			}
+		}
+	}
+	VAL_mortannis = {
+		name = "King Mortannis Darkmoor"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_val_king_mortannis"
+			}
+		}
+	}
+	VAL_landon = {
+		name = "Marshal Landon"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_val_marshal_landon"
+			}
+		}
+	}
+	VAL_lucius = {
+		name = "Prince Lucius"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_val_prince_lucius"
+			}
+		}
+	}
+	VAL_ragnar = {
+		name = "Ragnar Stoneheart"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_val_ragnar_stoneheart"
+			}
+		}
+	}
+
+}

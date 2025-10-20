@@ -1,0 +1,36 @@
+characters = {
+
+	VAL_malachi = {
+		name = "Malachi Ironwood"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cov_malachi_ironwood"
+			}
+		}
+	}
+    VAL_veldrin = {
+		name = "Veldrin Duskunne"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cov_veldrin_duskunne"
+			}
+		}
+	}
+    VAL_vespera = {
+		name = "Vespera"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cov_vespera"
+			}
+		}
+	}
+    VAL_zarnak = {
+		name = "Zarnak 'The Unseen'"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cov_zarnak"
+			}
+		}
+	}
+    
+}

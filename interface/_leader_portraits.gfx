@@ -1,0 +1,136 @@
+spriteTypes = {
+	
+	# CIT (citadel of dragon slaying and shenanigans)
+	spriteType = {
+		name = "GFX_portrait_cit_zyvan_woodfoot"
+		texturefile = "gfx/leaders/CIT/portrait_cit_zyvan_woodfoot.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_aelendor_galendir"
+		texturefile = "gfx/leaders/CIT/portrait_cit_aelendor_galendir.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_bjorn_asulf"
+		texturefile = "gfx/leaders/CIT/portrait_cit_bjorn_asulf.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_camel"
+		texturefile = "gfx/leaders/CIT/portrait_cit_camel.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_camel_old"
+		texturefile = "gfx/leaders/CIT/portrait_cit_camel_old.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_denious"
+		texturefile = "gfx/leaders/CIT/portrait_cit_denious.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_finnegan_fairweather"
+		texturefile = "gfx/leaders/CIT/portrait_cit_finnegan_fairweather.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_finnegan_fairweather_old"
+		texturefile = "gfx/leaders/CIT/portrait_cit_finnegan_fairweather_old.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_giant_ape"
+		texturefile = "gfx/leaders/CIT/portrait_cit_giant_ape.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_griswold_ironorc"
+		texturefile = "gfx/leaders/CIT/portrait_cit_griswold_ironorc.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_griswold_ironwood"
+		texturefile = "gfx/leaders/CIT/portrait_cit_griswold_ironwood.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_ic"
+		texturefile = "gfx/leaders/CIT/portrait_cit_ic.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_loader"
+		texturefile = "gfx/leaders/CIT/portrait_cit_loader.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_party"
+		texturefile = "gfx/leaders/CIT/portrait_cit_party.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_party_table"
+		texturefile = "gfx/leaders/CIT/portrait_cit_party_table.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_princess_steve_juvenile"
+		texturefile = "gfx/leaders/CIT/portrait_cit_princess_steve_juvenile.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_princess_steve_wyrmling"
+		texturefile = "gfx/leaders/CIT/portrait_cit_princess_steve_wyrmling.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_ragnar_stoneheart_corrupt"
+		texturefile = "gfx/leaders/CIT/portrait_cit_ragnar_stoneheart_corrupt.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_weedzard"
+		texturefile = "gfx/leaders/CIT/portrait_cit_weedzard.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_zarathustra"
+		texturefile = "gfx/leaders/CIT/portrait_cit_zarathustra.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cit_zeldris_remir"
+		texturefile = "gfx/leaders/CIT/portrait_cit_zeldris_remir.dds"
+	}
+
+	# TOL (orc toll camp)
+	spriteType = {
+		name = "GFX_portrait_tol_kilrogg"
+		texturefile = "gfx/leaders/TOL/portrait_tol_kilrogg.dds"
+	}
+
+	# COV (Coven of eternal night)
+	spriteType = {
+		name = "GFX_portrait_cov_malachi_ironwood"
+		texturefile = "gfx/leaders/COV/portrait_cov_malachi_ironwood.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cov_veldrin_duskunne"
+		texturefile = "gfx/leaders/COV/portrait_cov_veldrin_duskunne.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cov_vespera"
+		texturefile = "gfx/leaders/COV/portrait_cov_vespera.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_cov_zarnak"
+		texturefile = "gfx/leaders/COV/portrait_cov_zarnak.dds"
+	}
+
+	# VAL (Valeria)
+	spriteType = {
+		name = "GFX_portrait_val_alukah"
+		texturefile = "gfx/leaders/COV/portrait_val_alukah.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_val_king_mortannis"
+		texturefile = "gfx/leaders/COV/portrait_val_king_mortannis.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_val_marshal_landon"
+		texturefile = "gfx/leaders/COV/portrait_val_marshal_landon.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_val_prince_lucius"
+		texturefile = "gfx/leaders/COV/portrait_val_prince_lucius.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_val_ragnar_stoneheart"
+		texturefile = "gfx/leaders/COV/portrait_val_ragnar_stoneheart.dds"
+	}
+
+
+}

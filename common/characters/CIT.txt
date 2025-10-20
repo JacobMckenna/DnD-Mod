@@ -1,0 +1,181 @@
+characters = {
+	CIT_zyvan_woodfoot = {
+		name = "Zyvan 'The Dragon Slayer' Woodfoot"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_zyvan_woodfoot"
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				dictator
+				triumphant_revolutionary
+			}
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+    CIT_aelendor_galendir = {
+		name = "Aelendor Galendir"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_aelendor_galendir"
+			}
+		}
+	}
+    CIT_bjorn_asulf = {
+		name = "Bjorn Asulf"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_bjorn_asulf"
+			}
+		}
+	}
+    CIT_camel = {
+		name = "Camel"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_camel"
+			}
+		}
+	}
+    CIT_corrupted_camel = {
+		name = "Corrupted Camel"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_camel_old"
+			}
+		}
+	}
+    CIT_denious = {
+		name = "Denious"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_denious"
+			}
+		}
+	}
+    CIT_finnegan_fairweather = {
+		name = "Finnegan Fairweather"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_finnegan_fairweather"
+			}
+		}
+	}
+    CIT_finnegan_fairweather_old = {
+		name = "Old Finnegan Fairweather"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_finnegan_fairweather_old"
+			}
+		}
+	}
+    CIT_giant_ape = {
+		name = "Giant Ape"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_giant_ape"
+			}
+		}
+	}
+    CIT_griswold_ironorc = {
+		name = "Griswold Ironorc"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_griswold_ironorc"
+			}
+		}
+	}
+    CIT_griswold_ironwood = {
+		name = "Griswold Ironwood"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_griswold_ironwood"
+			}
+		}
+	}
+    CIT_ic = {
+		name = "Ic"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_ic"
+			}
+		}
+	}
+    CIT_loader = {
+		name = "Bjorn's Loader"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_party"
+			}
+		}
+	}
+    CIT_party = {
+		name = "Shadow Merchant Money Gang"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_party"
+			}
+		}
+	}
+    CIT_party_table = {
+		name = "War Council"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_party_table"
+			}
+		}
+	}
+    CIT_princess_steve_juvenile = {
+		name = "Juvenile Princess Steve"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_princess_steve_juvenile"
+			}
+		}
+	}
+    CIT_princess_steve_wyrmling = {
+		name = "Wyrmling Princess Steve"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_princess_steve_wyrmling"
+			}
+		}
+	}
+    CIT_ragnar_stoneheart_corrupt = {
+		name = "Corrupted Ragnar Stoneheart"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_ragnar_stoneheart_corrupt"
+			}
+		}
+	}
+    CIT_weedzard = {
+		name = "Weedzard"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_weedzard"
+			}
+		}
+	}
+    CIT_zarathustra = {
+		name = "Zarathustra"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_zarathustra"
+			}
+		}
+	}
+    CIT_zeldris_remir = {
+		name = "Zeldris Remir"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cit_zeldris_remir"
+			}
+		}
+	}
+    
+}
