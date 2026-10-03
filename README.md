@@ -17,3 +17,30 @@ The following are the contributors of the mod:
 - Eric Powell
 
 A list of individual contributions will be created later.
+
+
+## Files not includedd in this repo
+
+### dndmod.mod
+
+```
+version="0.1"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Map"
+	"National Focuses"
+	"Technologies"
+	"Military"
+	"Ideologies"
+}
+name="dndmod"
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+supported_version="1.16.*"
+path="C:/Users/Jamie/Documents/Paradox Interactive/Hearts of Iron IV/mod/dndmod"
+```
+
